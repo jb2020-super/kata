@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="kata.cpp">
+    <ClCompile Include="narcissistic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -18,5 +18,8 @@
     <ClCompile Include="narcissistic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="to_camel_case.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

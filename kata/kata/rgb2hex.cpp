@@ -1,5 +1,4 @@
-#include <string>
-#include "gtest/gtest.h"
+#include "common.h"
 
 // https://www.codewars.com/kata/513e08acc600c94f01000001/
 class RGBToHex

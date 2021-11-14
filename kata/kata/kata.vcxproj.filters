@@ -21,8 +21,16 @@
     <ClCompile Include="to_camel_case.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="rgb2hexcpp.cpp">
+    <ClCompile Include="is_prime.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="rgb2hex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

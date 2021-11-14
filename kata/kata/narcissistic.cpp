@@ -1,9 +1,4 @@
-#include <iostream>
-#include <cmath>
-#include <ctime>
-#include <cstdlib>
-#include <vector>
-#include "gtest/gtest.h"
+#include "common.h"
 
 // https://www.codewars.com/kata/5287e858c6b5a9678200083c/cpp
 bool narcissistic(int value) {

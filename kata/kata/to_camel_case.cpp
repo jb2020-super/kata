@@ -1,8 +1,4 @@
-#include <cstdio>
-#include <cstdlib>
-#include <string>
-#include <ctime>
-#include "gtest/gtest.h"
+#include "common.h"
 
 // https://www.codewars.com/kata/517abf86da9663f1d2000003/solutions/cpp
 std::string to_camel_case(std::string text) {

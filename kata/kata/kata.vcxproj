@@ -167,9 +167,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="is_prime.cpp" />
     <ClCompile Include="narcissistic.cpp" />
-    <ClCompile Include="rgb2hexcpp.cpp" />
+    <ClCompile Include="rgb2hex.cpp" />
     <ClCompile Include="to_camel_case.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

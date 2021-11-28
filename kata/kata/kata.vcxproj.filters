@@ -27,6 +27,9 @@
     <ClCompile Include="rgb2hex.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="productFib.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h">

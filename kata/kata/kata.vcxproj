@@ -169,6 +169,7 @@
   <ItemGroup>
     <ClCompile Include="is_prime.cpp" />
     <ClCompile Include="narcissistic.cpp" />
+    <ClCompile Include="productFib.cpp" />
     <ClCompile Include="rgb2hex.cpp" />
     <ClCompile Include="to_camel_case.cpp" />
   </ItemGroup>

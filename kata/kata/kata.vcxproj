@@ -167,6 +167,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="chain_adding.cpp" />
     <ClCompile Include="is_prime.cpp" />
     <ClCompile Include="narcissistic.cpp" />
     <ClCompile Include="productFib.cpp" />

@@ -33,6 +33,9 @@
     <ClCompile Include="RomanHelper.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="chain_adding.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h">
